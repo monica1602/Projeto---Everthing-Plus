@@ -1,4 +1,4 @@
-# Projeto de Análise de Dados Everything Plus
+# Projeto de Análise de Dados - Everything Plus
 
 ## Descrição do Projeto
 Este projeto consiste em uma análise de dados da loja online fictícia Everything Plus, especializada na venda de utensílios domésticos. O objetivo principal da análise é identificar estratégias para melhorar as vendas da empresa, utilizando ofertas personalizadas para diferentes grupos de clientes por meio de uma segmentação de mercado eficaz.
@@ -37,62 +37,62 @@ Essa análise será crucial para que a Everything Plus adote abordagens mais ass
 ### Tabelas vendas
 <img src="https://github.com/user-attachments/assets/de1d88ec-7378-46ac-b925-69d8b5ec6e3d" alt="Projeto Final"/>
 
-### Agrupamento por data e número de pedidos
-<img src="https://github.com/user-attachments/assets/ba03a525-46f2-4799-827e-c9aa86d81716" alt="Projeto Final" width="200"/>
+### Gráfico - Agrupamento por data e número de pedidos
+<img src="https://github.com/user-attachments/assets/ba03a525-46f2-4799-827e-c9aa86d81716" alt="Projeto Final" width="800"/>
 
-### Agrupamento por data e número de usuários
-<img src="https://github.com/user-attachments/assets/b55342ae-5192-433b-a727-0949ad915e37" alt="Projeto Final" width="200"/>
+### Gráfico - Agrupamento por data e número de usuários
+<img src="https://github.com/user-attachments/assets/b55342ae-5192-433b-a727-0949ad915e37" alt="Projeto Final" width="800"/>
 
-### Agrupamento por data e soma de quantidade pedida
-<img src="https://github.com/user-attachments/assets/c9c0aeed-2a23-4715-ac4f-2f675681f5b6" alt="Projeto Final" width="200"/>
+### Gráfico - Agrupamento por data e soma de quantidade pedida
+<img src="https://github.com/user-attachments/assets/c9c0aeed-2a23-4715-ac4f-2f675681f5b6" alt="Projeto Final" width="800"/>
 
-### Agrupamento por data e soma do valor de todos os itens
-<img src="https://github.com/user-attachments/assets/074e5e9a-1adc-4b1d-9881-44b9273dde2e" alt="Projeto Final" width="200"/>
+### Gráfico - Agrupamento por data e soma do valor de todos os itens
+<img src="https://github.com/user-attachments/assets/074e5e9a-1adc-4b1d-9881-44b9273dde2e" alt="Projeto Final" width="800"/>
 
-### Agrupamento por dia do mês e número de pedidos
-<img src="https://github.com/user-attachments/assets/4c6b03e5-c8d3-4164-9546-46f173226378" alt="Projeto Final" width="200"/>
+### Gráfico -Agrupamento por dia do mês e número de pedidos
+<img src="https://github.com/user-attachments/assets/4c6b03e5-c8d3-4164-9546-46f173226378" alt="Projeto Final" width="800"/>
 
-### Agrupamento por dia do mês e soma da quantidade pedida
-<img src="https://github.com/user-attachments/assets/b2ef1aef-447a-4ff8-aef3-6559eb15e149" alt="Projeto Final" width="200"/>
+### Gráfico - Agrupamento por dia do mês e soma da quantidade pedida
+<img src="https://github.com/user-attachments/assets/b2ef1aef-447a-4ff8-aef3-6559eb15e149" alt="Projeto Final" width="800"/>
 
-### Agrupamento por dia do mês e número de usuários
-<img src="https://github.com/user-attachments/assets/dadd4856-5ce4-443f-ab96-15d397ccbe1f" alt="Projeto Final" width="200"/>
+### Gráfico - Agrupamento por dia do mês e número de usuários
+<img src="https://github.com/user-attachments/assets/dadd4856-5ce4-443f-ab96-15d397ccbe1f" alt="Projeto Final" width="800"/>
 
-### Agrupamento por dia do mês e soma do valor
-<img src="https://github.com/user-attachments/assets/beb9ed76-a8db-4e2a-890d-26ca41358030" alt="Projeto Final" width="200"/>
+### Gráfico - Agrupamento por dia do mês e soma do valor
+<img src="https://github.com/user-attachments/assets/beb9ed76-a8db-4e2a-890d-26ca41358030" alt="Projeto Final" width="800"/>
 
-### Agrupamento por hora do dia e número de pedido
-<img src="https://github.com/user-attachments/assets/0aeb408f-9efe-4ade-85e3-8928bf19132b" alt="Projeto Final" width="200"/>
+### Gráfico - Agrupamento por hora do dia e número de pedido
+<img src="https://github.com/user-attachments/assets/0aeb408f-9efe-4ade-85e3-8928bf19132b" alt="Projeto Final" width="800"/>
 
-### Agrupamento por hora do dia e quantidade pedida
-<img src="https://github.com/user-attachments/assets/4f4ff937-662e-4ed8-9223-8b9c20583e2f" alt="Projeto Final" width="200"/>
+### Gráfico - Agrupamento por hora do dia e quantidade pedida
+<img src="https://github.com/user-attachments/assets/4f4ff937-662e-4ed8-9223-8b9c20583e2f" alt="Projeto Final" width="800"/>
 
-### Agrupamento por hora do dia e número de usuários
-<img src="https://github.com/user-attachments/assets/caf956d2-04b3-43f4-a466-7332238eb2e0" alt="Projeto Final" width="200"/>
+### Gráfico - Agrupamento por hora do dia e número de usuários
+<img src="https://github.com/user-attachments/assets/caf956d2-04b3-43f4-a466-7332238eb2e0" alt="Projeto Final" width="800"/>
 
-### Agrupamento por hora do dia e valor total
-<img src="https://github.com/user-attachments/assets/d1c8cd1b-d490-4b46-8c83-c21d1adb9992" alt="Projeto Final" width="200"/>
+### Gráfico - Agrupamento por hora do dia e valor total
+<img src="https://github.com/user-attachments/assets/d1c8cd1b-d490-4b46-8c83-c21d1adb9992" alt="Projeto Final" width="800"/>
 
-### Agrupamento por mês do ano e número de pedidos
-<img src="https://github.com/user-attachments/assets/ec7eaffb-812e-44f7-a86b-a0b40c90d6de" alt="Projeto Final" width="200"/>
+### Gráfico - Agrupamento por mês do ano e número de pedidos
+<img src="https://github.com/user-attachments/assets/ec7eaffb-812e-44f7-a86b-a0b40c90d6de" alt="Projeto Final" width="800"/>
 
-### Agrupamento por mês do ano e quantidade pedida
-<img src="https://github.com/user-attachments/assets/2a86d07f-b30c-46a6-9304-c739ddb7bf5e" alt="Projeto Final" width="200"/>
+### Gráfico - Agrupamento por mês do ano e quantidade pedida
+<img src="https://github.com/user-attachments/assets/2a86d07f-b30c-46a6-9304-c739ddb7bf5e" alt="Projeto Final" width="800"/>
 
-### Agrupamento por mês do ano e número de usuários
-<img src="https://github.com/user-attachments/assets/6853cc5f-15a4-4f46-a2cf-723e1c7bec39" alt="Projeto Final" width="200"/>
+### Gráfico - Agrupamento por mês do ano e número de usuários
+<img src="https://github.com/user-attachments/assets/6853cc5f-15a4-4f46-a2cf-723e1c7bec39" alt="Projeto Final" width="800"/>
 
-### Agrupamento por mês do ano e valor total
-<img src="https://github.com/user-attachments/assets/135eff68-faf8-4959-b241-2a185f350e16" alt="Projeto Final" width="200"/>
+### Gráfico - Agrupamento por mês do ano e valor total
+<img src="https://github.com/user-attachments/assets/135eff68-faf8-4959-b241-2a185f350e16" alt="Projeto Final" width="800"/>
 
-### Segmentação RFM classificação
-<img src="https://github.com/user-attachments/assets/21d9e430-68b5-448a-94cb-57c5339007cf" alt="Projeto Final" width="200"/>
+### Gráfico - Segmentação RFM classificação
+<img src="https://github.com/user-attachments/assets/21d9e430-68b5-448a-94cb-57c5339007cf" alt="Projeto Final" width="800"/>
 
-### Segmentação RFM time
-<img src="https://github.com/user-attachments/assets/39fe98c5-1b5a-42dd-9c74-dadcabae8602" alt="Projeto Final" width="200"/>
+### Gráfico - Segmentação RFM time
+<img src="https://github.com/user-attachments/assets/39fe98c5-1b5a-42dd-9c74-dadcabae8602" alt="Projeto Final" width="800"/>
 
-### Segmentação RFM total
-<img src="https://github.com/user-attachments/assets/1712cbd7-2b0f-4c2c-9381-97d96dadf008" alt="Projeto Final" width="200"/>
+### Gráfico - Segmentação RFM total
+<img src="https://github.com/user-attachments/assets/1712cbd7-2b0f-4c2c-9381-97d96dadf008" alt="Projeto Final" width="800"/>
 
 ## Resultados
 - Grandes quantidades vendidas de produtos de baixo valor: A análise indica que a empresa tem uma alta rotatividade de produtos com preços baixos, o que gera uma grande quantidade de vendas, mas com margens reduzidas. Esse dado é importante para estratégias de marketing, pois pode indicar a necessidade de promover mais produtos com maior valor agregado para aumentar o lucro por unidade.
@@ -112,11 +112,11 @@ Essa análise será crucial para que a Everything Plus adote abordagens mais ass
 - Formulação de hipóteses: A formulação de hipóteses envolve criar suposições sobre os dados com base no entendimento inicial e nas perguntas de pesquisa. Essas hipóteses guiam a análise, ajudando a testar teorias sobre como diferentes fatores podem influenciar o comportamento ou o desempenho do negócio.
 
 ## Contexto real
-- Empresas que desejam entender melhor o comportamento de seus clientes: Organizações que buscam insights profundos sobre as preferências, necessidades e comportamentos de compra dos consumidores, a fim de otimizar suas estratégias de marketing, vendas e atendimento ao cliente.
+- Empresas que buscam uma compreensão aprofundada do comportamento de seus clientes: Organizações que analisam preferências, necessidades e padrões de compra dos consumidores para aperfeiçoar suas estratégias de marketing, vendas e atendimento ao cliente.
 - Novas empresas que desejam entender melhor o mercado: Startups ou empresas em fase inicial que precisam compreender as dinâmicas do mercado, identificar nichos de clientes e entender a concorrência para tomar decisões estratégicas e posicionar seus produtos ou serviços de forma eficaz.
 - Analistas de dados que querem entender melhor o mercado: Profissionais especializados em análise de dados que buscam aplicar técnicas analíticas para explorar tendências de mercado, identificar padrões de comportamento e extrair informações valiosas que possam informar decisões de negócios.
 - Empresas de pesquisa que querem saber mais a opinião dos clientes de alguma empresa: Organizações especializadas em pesquisa de mercado que realizam estudos sobre a percepção e a satisfação dos consumidores, ajudando empresas a aprimorar seus produtos, serviços e estratégias de marketing com base no feedback do cliente.
-- Empresas de marketing que querem oferecer uma melhor experiência aos clientes: Agências de marketing que visam melhorar a experiência do cliente, personalizar as ofertas, otimizar campanhas e fidelizar consumidores, utilizando dados e insights para tomar decisões estratégicas mais precisas e eficazes.
+- Agências de marketing focadas na melhoria da experiência do cliente: Empresas que buscam personalizar ofertas, otimizar campanhas e fortalecer a fidelização dos consumidores, utilizando dados e análises para embasar decisões estratégicas com maior precisão e eficácia.
 
 ## Como executar o Projeto
 - Clone o repositório
